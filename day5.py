@@ -1,5 +1,4 @@
 import sys
-from typing import List
 
 
 def seat_code_to_id(seat: str) -> int:
